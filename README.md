@@ -1,2 +1,0 @@
-# Kinship
-Kinship DayZ
